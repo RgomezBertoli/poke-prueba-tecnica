@@ -1,0 +1,10 @@
+.main-header {
+    background-color: #a83e3e;
+    padding: 1rem;
+    color: white;
+    text-align: center;
+}
+  
+.main-header .title {
+    font-size: 1.5em;
+}

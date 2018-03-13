@@ -1,0 +1,21 @@
+.shield[data-show=false] {
+    display: none;
+}
+
+.shield[data-show=true] {
+    display: flex;
+}
+
+.shield {
+    position: absolute;
+    top:0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.shield img{
+    margin: auto;
+    height: 10rem;
+}

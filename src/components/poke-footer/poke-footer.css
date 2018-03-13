@@ -1,0 +1,11 @@
+.poke-footer{
+    text-align: center;
+    padding: 0.5rem 0.5rem 0;
+}
+
+.poke-footer button {
+    padding: 1rem 0.5rem;
+    background-color: #a83e3e;
+    border: none;
+    color: white;
+}
